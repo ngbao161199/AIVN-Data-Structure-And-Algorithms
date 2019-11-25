@@ -18,4 +18,6 @@
   - [ ] Week 0 Reading assignment
  
 - [ ] Week 1: Tìm hiểu đối tượng, kiểu dữ liệu và cách thể hiện trong Python
+  - [X] [Tìm hiểu về Biến và Kiểu dữ liệu](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week1/W1-Variables-And-Expression.ipynb)
+
  
