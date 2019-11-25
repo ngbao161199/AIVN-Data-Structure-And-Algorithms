@@ -4,7 +4,7 @@
 
 - [X] Đang trong tiến trình xây dựng
 
-- [X] Week 0: Giới thiệu khoá học
+- [ ] Week 0: Giới thiệu khoá học
   - [ ] Giới thiệu về khoá học
   - [X] [Giới thiệu cơ bản về Python](Week0/[W0]-Intro.md)
   - [X] [Giới thiệu về môi trường Python](Week0/W0-Python-Environment.md)
@@ -16,3 +16,6 @@
   - [ ] Tìm hiểu về khái niệm Abstract Data Types cùng Python
   - [ ] Tham khảo Career Path phù hợp dành cho bạn sau khi tham gia khoá học này
   - [ ] Week 0 Reading assignment
+ 
+- [ ] Week 1: Tìm hiểu đối tượng, kiểu dữ liệu và cách thể hiện trong Python
+ 
