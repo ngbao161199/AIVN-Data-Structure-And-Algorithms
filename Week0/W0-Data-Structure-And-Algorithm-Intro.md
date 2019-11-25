@@ -1,5 +1,4 @@
-# Tìm hiểu kiến thức về Cấu trúc dữ liệu và giải thuật
-
+# Đọc thêm
 **Cấu trúc dữ liệu và giải thuật** là một trong những khái niệm cơ bản nhất trong tính toán. Chúng là nền tảng cơ bản để từ đó xây dựng các kiến trúc phần mềm, ứng dụng phức tạp hiện nay. Trang bị nền tảng cơ bản này là cực kỳ quan trọng trong thiết kế phần mềm và chúng liên quan đến ba đặc điểm sau:
 - Làm thế nào các thuật toán thao tác thông tin có trong cấu trúc dữ liệu?
 - Cách sắp xếp dữ liệu trong bộ nhớ?
