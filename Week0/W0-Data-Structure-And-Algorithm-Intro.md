@@ -5,8 +5,7 @@ Thuật toán và cấu trúc dữ liệu là các khái niệm cơ bản nhất
 - Cách sắp xếp dữ liệu trong bộ nhớ?
 - Các đặc tính hiệu suất của các cấu trúc dữ liệu cụ thể là gì?
 
-![](https://images.slideplayer.com/25/7638794/slides/slide_4.jpg)
-**Nguồn hình ảnh: Min Chen - School of Computer Science and Engineering, Seoul National University**
+![](https://image.slidesharecdn.com/datastructuresandalgorithms-131101140849-phpapp01/95/data-structures-and-algorithms-2-638.jpg?cb=1383315896)
 <br><br>
 Và tại đây, chúng ta sẽ nhìn nhận chủ đề này từ một số quan điểm. 
 <br><br>
