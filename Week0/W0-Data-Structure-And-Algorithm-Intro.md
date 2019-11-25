@@ -6,7 +6,7 @@ Thuật toán và cấu trúc dữ liệu là các khái niệm cơ bản nhất
 - Các đặc tính hiệu suất của các cấu trúc dữ liệu cụ thể là gì?
 
 ![](https://images.slideplayer.com/25/7638794/slides/slide_4.jpg)
-$$\text{Nguồn hình ảnh: Min Chen - School of Computer Science and Engineering, Seoul National University}$$
+**Nguồn hình ảnh: Min Chen - School of Computer Science and Engineering, Seoul National University**
 <br><br>
 Và tại đây, chúng ta sẽ nhìn nhận chủ đề này từ một số quan điểm. 
 <br><br>
