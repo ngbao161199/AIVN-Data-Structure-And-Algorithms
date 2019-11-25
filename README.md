@@ -14,4 +14,5 @@
   - [ ] Tìm hiểu về Git và tầm quan trọng của Git trong dự án thực tế
   - [X] [Tìm hiểu cơ bản về Cấu trúc dữ liệu và Giải thuật](Week0/W0-Data-Structure-And-Algorithm-Intro.md)
   - [ ] Tìm hiểu về khái niệm Abstract Data Types cùng Python
-  - [ ] Reading assignment
+  - [ ] Tham khảo Career Path phù hợp dành cho bạn sau khi tham gia khoá học này
+  - [ ] Week 0 Reading assignment
