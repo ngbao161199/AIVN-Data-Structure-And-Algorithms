@@ -11,9 +11,8 @@
   - [X] Tìm hiểu về Markdown và cách sử dụng Markdown viết các ghi chú ở Jupyter Notebooks
   - [X] [Kỹ năng sử dụng Google Search](https://aivietnam.ai/courses/aisummer2019/lessons/ky-nang-su-dung-google-search/)
   - [ ] Tìm hiểu về Git và tầm quan trọng của Git trong dự án thực tế
-  - [X] [Tìm hiểu cơ bản về Cấu trúc dữ liệu và Giải thuật](Week0/W0-Data-Structure-And-Algorithm-Intro.md)
-  - [ ] Tham khảo Career Path phù hợp dành cho bạn sau khi tham gia khoá học này
-  - [ ] Week 0 Reading assignment
+  - [ ] Tham khảo định hướng phù hợp dành cho bạn sau khi tham gia khoá học này
+  - [X] [Đọc thêm](Week0/W0-Data-Structure-And-Algorithm-Intro.md)
  
 - [ ] Week 1: Tìm hiểu đối tượng, kiểu dữ liệu và cách thể hiện trong Python
   - [X] [Tìm hiểu về Biến và Kiểu dữ liệu](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week1/W1-Variables-And-Expression.ipynb)
