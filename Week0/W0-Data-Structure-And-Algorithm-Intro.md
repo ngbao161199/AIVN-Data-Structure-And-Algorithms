@@ -1,6 +1,6 @@
 # Tìm hiểu kiến thức về Cấu trúc dữ liệu và giải thuật
 
-Thuật toán và cấu trúc dữ liệu là các khái niệm cơ bản nhất trong tính toán. Chúng là nền tảng cơ bản để từ đó xây dựng các kiến trúc phần mềm, ứng dụng phức tạp hiện nay. Trang bị nền tảng cơ bản này là cực kỳ quan trọng trong thiết kế phần mềm và chúng liên quan đến ba đặc điểm sau:
+**Cấu trúc dữ liệu và giải thuật** là một trong những khái niệm cơ bản nhất trong tính toán. Chúng là nền tảng cơ bản để từ đó xây dựng các kiến trúc phần mềm, ứng dụng phức tạp hiện nay. Trang bị nền tảng cơ bản này là cực kỳ quan trọng trong thiết kế phần mềm và chúng liên quan đến ba đặc điểm sau:
 - Làm thế nào các thuật toán thao tác thông tin có trong cấu trúc dữ liệu?
 - Cách sắp xếp dữ liệu trong bộ nhớ?
 - Các đặc tính hiệu suất của các cấu trúc dữ liệu cụ thể là gì?
@@ -13,12 +13,11 @@ Và tại đây, chúng ta sẽ nhìn nhận chủ đề này từ một số qu
 <br><br>
 Thứ hai, điều quan trọng là chúng ta phải có một công cụ toán học chính xác. Chúng ta cần hiểu một số khái niệm cơ bản của khoa học máy tính và để thực hiện điều này, chúng ta cần toán học. Qua cách tiếp cận ở các hàm heuristic hay phát triển những nguyên lý cơ bản thì việc trang bị các nền tảng toán học sẽ vô cùng quan trọng.
 <br><br>
-Một khía cạnh quan trọng khác là đánh giá. Đo lường hiệu suất thuật toán liên quan đến
-hiểu làm thế nào mỗi lần tăng kích thước dữ liệu ảnh hưởng đến hoạt động trên dữ liệu đó. Khi chúng ta làm việc trên các bộ dữ liệu lớn hoặc các ứng dụng thời gian thực, điều cần thiết là các thuật toán của chúng ta và cấu trúc dữ liệu được tổ chức hiệu quả.
+Một khía cạnh quan trọng khác là đánh giá. Đo lường hiệu suất thuật toán liên quan đến thấu hiểu làm thế nào mỗi lần tăng kích thước dữ liệu ảnh hưởng đến hoạt động trên dữ liệu đó. Khi chúng ta làm việc trên các bộ dữ liệu lớn hoặc các ứng dụng thời gian thực, điều cần thiết là các thuật toán của chúng ta và cấu trúc dữ liệu được tổ chức hiệu quả.
 <br><br>
 Cuối cùng, chúng ta cần một chiến lược thiết kế thử nghiệm hiệu quả. Có thể hiểu rằng bạn thấu hiểu một vấn đề trong thực tế, tìm kiếm cấu trúc dữ liệu và giải thuật của ngôn ngữ lập trình liên quan đến việc để lựa chọn giải quyết và liên kết chúng vào cấu trúc lập trình.
 <br><br>
-Để cung cấp cho chúng tôi cái nhìn sâu sắc về tư duy thuật toán, hãy xem xét một ví dụ thực tế sau.
+Để trang bị một góc nhìn sâu sắc về **tư duy thuật toán**, hãy xem xét một ví dụ thực tế sau.
 <br><br>
 ![](https://uploadarticle.com/wp-content/uploads/2018/03/timing-stock-market.jpg)
 <br><br>
@@ -27,11 +26,11 @@ Hãy tưởng tượng chúng ta đang ở một thị trường xa lạ và ch�
 Một cách để tiếp cận điều này là để viết một thuật toán như sau:
 <br><br>
 Thực hiện một vòng lặp cho mỗi nhà cung cấp:
-1. Nhà cung cấp có các mặt hàng trong danh sách của chúng ta và có chi phí thấp hơn chi phí dự đoán cho các mặt hàng?
-2. Nếu có, mua và xóa khỏi danh sách; nếu không, chuyển sang nhà cung cấp tiếp theo.
-3. Nếu không còn nhà cung cấp, kết thúc.
+  1. Nhà cung cấp có các mặt hàng trong danh sách của chúng ta và có chi phí thấp hơn chi phí dự đoán cho các mặt hàng?
+  2. Nếu có, mua và xóa khỏi danh sách; nếu không, chuyển sang nhà cung cấp tiếp theo.
+  3. Nếu không còn nhà cung cấp, kết thúc.
 <br><br>
-Đây là một trình vòng lặp đơn giản với một quyết định và một hành động. Nếu chúng ta thực hiện điều này, chúng ta sẽ cần cấu trúc dữ liệu để xác định cả danh sách các mặt hàng chúng ta muốn mua cũng như danh sách các mặt hàng của từng nhà cung cấp. Chúng ta sẽ cần xác định cách phù hợp nhất với các mục trong mỗi danh sách và chúng ta cần một số cấu trúc logic để quyết định có nên mua hay không.
+Đây là một vòng lặp đơn giản với một quyết định và một hành động. Nếu chúng ta thực hiện điều này, chúng ta sẽ cần cấu trúc dữ liệu để xác định cả danh sách các mặt hàng chúng ta muốn mua cũng như danh sách các mặt hàng của từng nhà cung cấp. Chúng ta sẽ cần xác định cách phù hợp nhất với các mục trong mỗi danh sách và chúng ta cần một số cấu trúc logic để quyết định có nên mua hay không.
 <br><br>
 ![](https://marketrealist.imgix.net/uploads/2016/09/Soybean-Prices-2016-09-12.jpg)
 <br><br>
