@@ -5,8 +5,7 @@
 - [X] Đang trong tiến trình xây dựng
 
 - [ ] Week 0: Giới thiệu khoá học
-  - [ ] Giới thiệu về khoá học
-  - [X] [Giới thiệu cơ bản về Python](Week0/[W0]-Python-Intro.md)
+  - [X] [Giới thiệu về khoá học](Week0/W0-Intro.md)
   - [X] [Giới thiệu về môi trường Python](Week0/W0-Python-Environment.md)
   - [ ] Tìm hiểu về Jupyter Notebooks và xây dựng chương trình Python đầu tiên
   - [X] Tìm hiểu về Markdown và cách sử dụng Markdown viết các ghi chú ở Jupyter Notebooks
