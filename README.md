@@ -8,7 +8,7 @@
   - [X] [Giới thiệu về khoá học và ngôn ngữ lập trình Python](Week0/W0-Intro.md)
   - [X] [Giới thiệu về môi trường Python](Week0/W0-Python-Environment.md)
   - [ ] Tìm hiểu về Jupyter Notebooks và xây dựng chương trình Python đầu tiên
-  - [X] Tìm hiểu về Markdown và cách sử dụng Markdown viết các ghi chú ở Jupyter Notebooks
+  - [X] [Tìm hiểu về Markdown và cách sử dụng Markdown viết các ghi chú ở Jupyter Notebooks](Week0/W0-Markdown-Guide)
   - [X] [Kỹ năng sử dụng Google Search](https://aivietnam.ai/courses/aisummer2019/lessons/ky-nang-su-dung-google-search/)
   - [ ] Tìm hiểu về Git và tầm quan trọng của Git trong dự án thực tế
   - [ ] Tham khảo định hướng phù hợp dành cho bạn sau khi tham gia khoá học này
@@ -31,7 +31,7 @@
 - [ ] Week 2: Làm quen với ngôn ngữ lập trình Python (Phần 1)
   - [X] [Tìm hiểu về Biến và Kiểu dữ liệu](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week1/W1-Variables-And-Expression.ipynb)
   - [ ] Bài tập cơ bản về Biến và Kiểu dữ liệu
-  - [ ] [Tìm hiểu về phạm vi biến đổi trong Python](Week1/W1-Variable-Scope.ipynb)
+  - [X] [Tìm hiểu về phạm vi biến đổi trong Python](Week1/W1-Variable-Scope.ipynb)
   - [X] [Luồng điều khiển và vòng lặp](Week1/W1-Flow-control-and-Iterations.ipynb)
   - [ ] Bài tập cơ bản về Luồng điều khiển và vòng lặp
   - [ ] Chuỗi trong Python
