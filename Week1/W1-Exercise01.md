@@ -49,4 +49,10 @@ Bạn học Đại học với một ông thầy khó tính chuyên ra đề cu�
 | 20 30 0 50<br>1 7.75 0      | 0      |
 | 15 15 10 60 <br>0 9.75 2.75 | 5.5    |
 
+**Câu 5**. Bạn đang bị biệt giam trong một căn phòng không có gì ngoài chiếc đồng hồ treo tường có thời gian chính xác cùng 1 chiếc laptop đầy pin (**nhưng không Internet, hỏng hệ thống xác định giờ và máy chỉ có duy nhất một chương trình soạn thảo Python hoạt động được**).
+<br>
+Bạn nhìn vào chiếc máy một cách vô vọng, bỗng dưng có thông báo từ ban quản lý báo rằng còn N giây nữa bạn sẽ được thả. Thật quái gở khi bạn không hề biết chính xác mình sẽ được thả khi nào mặc dù bạn biết mình sẽ được thả trước 23:59 cùng ngày.
+<br>
+Với chương trình Python trong máy, hãy tính khung giờ chính xác bạn được thả từ N giây nghe được từ ban quản lý.
+
 
