@@ -25,12 +25,14 @@
   - [ ] Sự cần thiết về tư duy trong lập trình
   - [ ] Tìm hiểu về khái niệm Clean Code
   - [ ] Tham khảo các ứng dụng của Python trên thực tế (Đọc thêm)
+  - [ ] Học lập trình: Bạn chọn gì giữa việc đi hàm hoặc theo đuổi con đường nghiên cứu (Đọc thêm)
   - [ ] Tổng kết Week 1 và các lưu ý cho Week 2
   
 - [ ] Week 2: Làm quen với ngôn ngữ lập trình Python (Phần 1)
   - [X] [Tìm hiểu về Biến và Kiểu dữ liệu](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week1/W1-Variables-And-Expression.ipynb)
   - [ ] Bài tập cơ bản về Biến và Kiểu dữ liệu
-  - [X] Luồng điều khiển và vòng lặp
+  - [ ] [Tìm hiểu về phạm vi biến đổi trong Python](Week1/W1-Variable-Scope.ipynb)
+  - [X] [Luồng điều khiển và vòng lặp](Week1/W1-Flow-control-and-Iterations.ipynb)
   - [ ] Bài tập cơ bản về Luồng điều khiển và vòng lặp
   - [ ] Chuỗi trong Python
   - [ ] Bài tập cơ bản về Chuỗi 
