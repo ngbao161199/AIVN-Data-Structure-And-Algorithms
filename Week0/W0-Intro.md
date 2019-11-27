@@ -41,3 +41,4 @@ Trong Python, có nhiều cấu trúc dữ liệu và thuật toán hữu ích �
 # Điều kiện tiên quyết của khoá học
 - Hãy trang bị kiến thức về ngôn ngữ lập trình Python trước khi lựa chọn tham gia khoá học này. 
 - Tuy nhiên, nếu bạn biết lập trình ở một ngôn ngữ khác hoặc hoàn toàn không biết Python, hãy tìm hiểu tài liệu về Python tại https://www.python.org/doc/. Đây là một trong những nguồn tài nguyên tuyệt vời để dễ dàng học ngôn ngữ lập trình này.
+- Trong 4 tuần đầu của khoá học (Tính từ Week0 -> Week3), bạn có thể kết hợp vừa tự học và ôn tập song hành vì giai đoạn này AI VIET NAM sẽ xoáy trọng tâm vào nền tảng cơ bản của ngôn ngữ lập trình Python.
