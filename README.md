@@ -41,7 +41,7 @@
   - [ ] Tìm hiểu khái niệm về lớp và ứng dụng cùng phương pháp lập trình hướng đối tượng
   - [ ] Đóng gói dữ liệu và thuộc tính
   - [ ] Bài tập cơ bản về lớp và lập trình hướng đối tượng
-  - [ ] Xây dựng game Poker qua kiến thức đã học từ Week 2
+  - [ ] Xây dựng game cơ bản trên Python qua kiến thức đã học từ Week 2
   - [ ] Tổng kết Week 2
   
 - [ ] Week 3: Làm quen với ngôn ngữ lập trình Python (Phần 2) 
