@@ -41,7 +41,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [Danh sách trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/list-python/)
   - [ ] Bài tập cơ bản về Danh sách
   - [X] [Chuỗi trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/string-trong-python/)
-  - [ ] [Tìm hiểu về Tuples](Week2/W2-Tuples.ipynb)
+  - [X] [Tìm hiểu về Tuples](Week2/W2-Tuples.ipynb)
   - [ ] Bài tập cơ bản về Chuỗi 
   - [X] [Tìm hiểu khái niệm về hàm](https://aivietnam.ai/courses/aisummer2019/lessons/xay-dung-ham-trong-python/)
   - [ ] Bài tập cơ bản về Hàm
