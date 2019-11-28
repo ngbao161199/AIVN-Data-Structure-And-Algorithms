@@ -1,5 +1,7 @@
 # AI Viet Nam Course: Data Structure and Algorithms.
 
+Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi người** được phát triển bởi AI Viet Nam. Bạn có thể tham khảo khoá học tại [đây](https://aivietnam.ai/courses/aisummer2019/).
+
 ## Nội dung khoá học
 
 - [X] Đang trong tiến trình xây dựng
@@ -29,14 +31,19 @@
   - [ ] Tổng kết Week 1 và các lưu ý cho Week 2
   
 - [ ] Week 2: Làm quen với ngôn ngữ lập trình Python (Phần 1)
-  - [X] [Tìm hiểu về Biến và Kiểu dữ liệu](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week1/W1-Variables-And-Expression.ipynb)
-  - [X] [Bài tập cơ bản về Biến và Kiểu dữ liệu](Week1/W1-Exercise01.md)
-  - [X] [Tìm hiểu về phạm vi biến đổi trong Python](Week1/W1-Variable-Scope.ipynb)
-  - [X] [Luồng điều khiển và vòng lặp](Week1/W1-Flow-control-and-Iterations.ipynb)
+  - [X] [Tìm hiểu về Biến và Kiểu dữ liệu](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week2/W2-Variables-And-Expression.ipynb)
+  - [X] [Giới thiệu hàm xây dựng sẵn trong Python - math và random](https://aivietnam.ai/courses/aisummer2019/lessons/ham-xay-dung-san-trong-python-math-random-va-string/)
+  - [X] [Cài đặt các công thức toán cơ bản qua Python](https://aivietnam.ai/courses/aisummer2019/lessons/bai-tap-cai-cac-cong-thuc-toan-co-ban/)
+  - [X] [Bài tập cơ bản về Biến và Kiểu dữ liệu](Week2/W2-Exercise01.md)
+  - [X] [Tìm hiểu về phạm vi biến đổi trong Python](Week2/W2-Variable-Scope.ipynb)
+  - [X] [Luồng điều khiển và vòng lặp](Week2/W2-Flow-control-and-Iterations.ipynb)
   - [ ] Bài tập cơ bản về Luồng điều khiển và vòng lặp
-  - [ ] Chuỗi trong Python
+  - [X] [Danh sách trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/list-python/)
+  - [ ] Bài tập cơ bản về Danh sách
+  - [X] [Chuỗi trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/string-trong-python/)
+  - [ ] [Tìm hiểu về Tuples](Week2/W2-Tuples.ipynb)
   - [ ] Bài tập cơ bản về Chuỗi 
-  - [ ] Tìm hiểu khái niệm về hàm
+  - [X] [Tìm hiểu khái niệm về hàm](https://aivietnam.ai/courses/aisummer2019/lessons/xay-dung-ham-trong-python/)
   - [ ] Bài tập cơ bản về Hàm
   - [ ] Tìm hiểu khái niệm về lớp và ứng dụng cùng phương pháp lập trình hướng đối tượng
   - [ ] Đóng gói dữ liệu và thuộc tính
