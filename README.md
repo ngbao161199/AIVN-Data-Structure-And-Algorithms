@@ -9,6 +9,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
 - [ ] Week 0: Giới thiệu khoá học
   - [X] [Giới thiệu về khoá học và ngôn ngữ lập trình Python](Week0/W0-Intro.md)
   - [X] [Giới thiệu về môi trường Python](Week0/W0-Python-Environment.md)
+  - [X] [Hướng dẫn viết Python trên web](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
   - [ ] Tìm hiểu về Jupyter Notebooks và xây dựng chương trình Python đầu tiên
   - [X] [Tìm hiểu về Markdown và cách sử dụng Markdown viết các ghi chú ở Jupyter Notebooks](Week0/W0-Markdown-Guide.md)
   - [X] [Kỹ năng sử dụng Google Search](https://aivietnam.ai/courses/aisummer2019/lessons/ky-nang-su-dung-google-search/)
@@ -45,17 +46,19 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Bài tập cơ bản về Chuỗi 
   - [X] [Tìm hiểu khái niệm về hàm](https://aivietnam.ai/courses/aisummer2019/lessons/xay-dung-ham-trong-python/)
   - [ ] Bài tập cơ bản về Hàm
-  - [ ] Tìm hiểu khái niệm về lớp và ứng dụng cùng phương pháp lập trình hướng đối tượng
-  - [ ] Đóng gói dữ liệu và thuộc tính
-  - [ ] Bài tập cơ bản về lớp và lập trình hướng đối tượng
   - [ ] Xây dựng game cơ bản trên Python qua kiến thức đã học từ Week 2
   - [ ] Tổng kết Week 2
   
 - [ ] Week 3: Làm quen với ngôn ngữ lập trình Python (Phần 2) 
+  - [ ] Tìm hiểu khái niệm về lớp và ứng dụng cùng phương pháp lập trình hướng đối tượng
+  - [ ] Đóng gói dữ liệu và thuộc tính
+  - [ ] Bài tập cơ bản về lớp và lập trình hướng đối tượng
   - [ ] Tìm hiểu về Toán tử
   - [ ] Tìm hiểu về Kiểu dữ liệu tích hợp
   - [ ] Tìm hiểu về Sets
   - [ ] Các module dành cho Cấu trúc dữ liệu và Giải thuật
+  - [X] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
+  - [X] [Ôn tập Đại số tuyến tính cùng Python](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
   - [ ] Bài tập tổng hợp của Week 3
   - [ ] Tổng kết Week 3
 
