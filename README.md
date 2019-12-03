@@ -20,11 +20,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
 - [ ] Week 1: Tìm hiểu về nguồn gốc và các khái niệm trong lập trình
   - [ ] Lược sử ngành Khoa học máy tính
   - [ ] Tại sao cần học lập trình?
-  - [ ] Tổng quan về các phương pháp lập trình và phương pháp lập trình tuyến tính
-  - [ ] Giới thiệu về phương pháp lập trình cấu trúc
-  - [ ] Giới thiệu về phương pháp lập trình hướng đối tượng
-  - [ ] So sánh giữa phương pháp lập trình cấu trúc và lập trình hướng đối tượng
-  - [ ] Giới thiệu về phương pháp lập trình logic và lập trình hàm (Đọc thêm)
+  - [ ] Tổng quan về các phương pháp lập trình 
   - [ ] Sự cần thiết về tư duy trong lập trình
   - [ ] Tìm hiểu về khái niệm Clean Code
   - [ ] Tham khảo các ứng dụng của Python trên thực tế (Đọc thêm)
