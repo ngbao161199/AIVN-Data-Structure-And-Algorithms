@@ -30,7 +30,7 @@ Trên thế giới, hiện có một số loại thuật toán phổ biến như
 - **Xóa** - Thuật toán để xóa một mục hiện có khỏi cấu trúc dữ liệu.
 
 ![](https://myexperiencelive.files.wordpress.com/2017/03/image1.png?w=700)
-Hình ảnh minh hoạ thuật toán sắp xếp trên thực tế
+<br>Hình ảnh minh hoạ thuật toán sắp xếp trên thực tế
 
 Từ kiến thức Cấu trúc dữ liệu và thuật toán, ta có thể nhận biết chúng đang được áp dụng trong các ứng dụng thực tế bao gồm:
 - Tính năng sắp xếp giá sản phẩm theo danh mục trên các website thương mại điện tử áp dụng thuật toán **Sắp xếp**.
