@@ -51,8 +51,31 @@ Bạn học Đại học với một ông thầy khó tính chuyên ra đề cu�
 
 **Câu 5**. Bạn đang bị biệt giam trong một căn phòng không có gì ngoài chiếc đồng hồ treo tường có thời gian chính xác cùng 1 chiếc laptop đầy pin (**nhưng không Internet, hỏng hệ thống xác định giờ và máy chỉ có duy nhất một chương trình soạn thảo Python hoạt động được**).
 <br>
-Bạn nhìn vào chiếc máy một cách vô vọng, bỗng dưng có thông báo từ ban quản lý báo rằng còn N giây nữa bạn sẽ được thả. Thật quái gở khi bạn không hề biết chính xác mình sẽ được thả khi nào mặc dù bạn biết mình sẽ được thả trước 23:59 cùng ngày.
+Bạn nhìn vào chiếc máy một cách vô vọng, bỗng dưng có thông báo từ ban quản lý báo rằng bạn sẽ được thả vào XX giờ YY phút ZZ giây. 
 <br>
-Với chương trình Python trong máy, hãy tính khung giờ chính xác bạn được thả từ N giây nghe được từ ban quản lý.
+Với chương trình Python trong máy, tìm thời gian còn lại để bạn được thả tính từ thời điểm hiện tại.
 
+**Input**
+- Nhập X, Y, Z tượng trưng cho giờ phút giây ở thời điểm hiện tại.
+- Tiếp tục nhập A, B, C tượng trung cho giờ phút giây bạn sẽ được thả.
+
+**Output**
+<br> N Thời gian bạn được thả (xét theo giây).
+
+**Lưu ý**: 
+  - Thời gian quy đổi thành giây
+  - Thời gian input tính theo mốc 24 giờ.
+
+| Input             | Output |
+|-------------------|--------|
+| 5 5 5<br>19 19 19 | 51254  |
+| 0 0 1<br>23 45 59 | 85558  |
+
+
+**Câu 6**. Cho biểu thức: $$y = 4(x^{2}+10x\sqrt{x}+3x^{3}+8)$$. Viết chương trình tính y từ x đã cho!
+
+| Input | Output            |
+|-------|-------------------|
+| 69    | 3984110.281861654 |
+| 6996  | 3984110.281861654 |
 
