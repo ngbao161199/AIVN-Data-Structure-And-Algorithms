@@ -28,10 +28,10 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Tổng kết Week 1 và các lưu ý cho Week 2
   
 - [ ] Week 2: Làm quen với ngôn ngữ lập trình Python (Phần 1)
-  - [X] [Tìm hiểu về Biến và Kiểu dữ liệu](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week2/W2-Variables-And-Expression.ipynb)
+  - [X] [Tìm hiểu về Biến và cách biểu diễn trong Python](https://github.com/ngbao161199/AIVN-Data-Structure-And-Algorithms/blob/master/Week2/W2-Variables-And-Expression.ipynb)
   - [X] [Giới thiệu hàm xây dựng sẵn trong Python - math và random](https://aivietnam.ai/courses/aisummer2019/lessons/ham-xay-dung-san-trong-python-math-random-va-string/)
   - [X] [Cài đặt các công thức toán cơ bản qua Python](https://aivietnam.ai/courses/aisummer2019/lessons/bai-tap-cai-cac-cong-thuc-toan-co-ban/)
-  - [X] [Bài tập cơ bản về Biến và Kiểu dữ liệu](Week2/W2-Exercise01.md)
+  - [X] [Bài tập cơ bản về Biến trong Python](Week2/W2-Exercise01.md)
   - [X] [Tìm hiểu về phạm vi biến đổi trong Python](Week2/W2-Variable-Scope.ipynb)
   - [X] [Luồng điều khiển và vòng lặp](Week2/W2-Flow-control-and-Iterations.ipynb)
   - [ ] Bài tập cơ bản về Luồng điều khiển và vòng lặp
