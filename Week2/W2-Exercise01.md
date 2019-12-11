@@ -34,11 +34,11 @@ Vì điều kiện gia đình chỉ đủ trang trải việc học nên bạn �
 Bạn học Đại học với một ông thầy khó tính chuyên ra đề cuối kỳ đánh rớt sinh viên. Cuối kỳ thường chiếm trọng số cao, bạn sẽ phải tính toán các thang điểm từ những cột điểm khác (đã có điểm rồi) để nhắm chừng mình cần bao nhiêu điểm cho bài thi cuối kỳ để qua môn.
 
 **Input**
-<br>Nhập lần lượt a, b, c, d tương ứng tỷ lệ % tương ứng các cột điểm Quá trình, Thực hành, Giữa kỳ và Cuối kỳ.
-<br>Nhập tiếp tục i, j, k tương ứng với số điểm của các cột Quá trình, Thực hành và Giữa kỳ.
+- Nhập lần lượt a, b, c, d tương ứng tỷ lệ % tương ứng các cột điểm Quá trình, Thực hành, Giữa kỳ và Cuối kỳ.
+- Nhập tiếp tục i, j, k tương ứng với số điểm của các cột Quá trình, Thực hành và Giữa kỳ.
 
 **Output**
-<br>Xuất ra số điểm tối thiểu bạn cần ở bài thi cuối kỳ để qua môn. Nếu không có số điểm tối thiểu nào phù hợp thì xuất ra 0. 
+- Xuất ra số điểm tối thiểu bạn cần ở bài thi cuối kỳ để qua môn. Nếu không có số điểm tối thiểu nào phù hợp thì xuất ra 0. 
 
 **Lưu ý**: 
   - Output cần được làm tròn tới vị trí thập phân thứ 2.
