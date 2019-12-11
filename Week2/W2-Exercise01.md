@@ -60,7 +60,7 @@ Với chương trình Python trong máy, tìm thời gian còn lại để bạn
 - Tiếp tục nhập A, B, C tượng trung cho giờ phút giây bạn sẽ được thả.
 
 **Output**
-<br> N Thời gian bạn được thả (xét theo giây).
+- N Thời gian bạn được thả (xét theo giây).
 
 **Lưu ý**: 
   - Thời gian quy đổi thành giây
@@ -82,3 +82,23 @@ Với chương trình Python trong máy, tìm thời gian còn lại để bạn
 | 69    | 3984110.281861654 |
 | 6996  | 3984110.281861654 |
 
+**Câu 7**.<br>
+![](http://cdn.thehinh.com/2016/02/Chi-so-BMI-xac-dinh-muc-do-beo-gay.jpg)<br>
+
+**Input**
+- Nhập cân nặng và chiều cao của bạn.
+
+**Output**
+- Xuất ra chỉ số BMI của bạn.
+
+| Input   | Output             |
+|---------|--------------------|
+| 80 1.65 | 29.384756657483933 |
+| 92 1.84 | 27.173913043478258 |
+
+**Câu 8**. Viết chương trình Python để sắp xếp ba số nguyên mà không cần sử dụng các câu lệnh điều kiện và vòng lặp.
+
+| Input           | Output          |
+|-----------------|-----------------|
+| 66 99 69        | 66 69 99        |
+| 1024 -1999 2048 | -1999 1024 2048 |
