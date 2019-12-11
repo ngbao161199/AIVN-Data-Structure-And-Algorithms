@@ -22,7 +22,6 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Tại sao cần học lập trình?
   - [ ] Tổng quan về các phương pháp lập trình 
   - [ ] Sự cần thiết về tư duy trong lập trình
-  - [ ] Tìm hiểu về khái niệm Clean Code
   - [ ] Tham khảo các ứng dụng của Python trên thực tế (Đọc thêm)
   - [ ] Học lập trình: Bạn chọn gì giữa việc đi hàm hoặc theo đuổi con đường nghiên cứu (Đọc thêm)
   - [ ] Tổng kết Week 1 và các lưu ý cho Week 2
@@ -56,6 +55,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
   - [X] [Ôn tập Đại số tuyến tính cùng Python](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
   - [ ] Bài tập tổng hợp của Week 3
+  - [ ] Tìm hiểu về khái niệm Clean Code
   - [ ] Tổng kết Week 3
 
 - [ ] Week 4: Phân tích thuật toán
