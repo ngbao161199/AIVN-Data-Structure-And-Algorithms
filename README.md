@@ -58,6 +58,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
   - [X] [Ôn tập Đại số tuyến tính cùng Python](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
   - [X] [Số liệu thống kê cơ bản và ứng dụng trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/statistics-co-ban/)
+  - [ ] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
   - [ ] Bài tập tổng hợp của Week 3
   - [ ] Tìm hiểu về khái niệm Clean Code
   - [ ] Tổng kết Week 3
