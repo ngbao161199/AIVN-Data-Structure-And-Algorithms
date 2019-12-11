@@ -39,7 +39,7 @@ Từ kiến thức Cấu trúc dữ liệu và thuật toán, ta có thể nhậ
 
 # Giới thiệu về Python
 
-Python là một trong những ngôn ngữ lập trình nâng cao dễ tiếp cận, phù hợp để thực hiện và xử lý nhiều thao tác với dữ liệu. Python ra đời vào năm 1991 bởi nhà phát triển Guido Van Rossum. Python có thể là bước đệm mở đầu cho những ai yêu thích thế giới lập trình muốn tìm tòi và học hỏi.
+Python là một trong những ngôn ngữ lập trình nâng cao dễ tiếp cận, phù hợp để thực hiện và xử lý nhiều thao tác với dữ liệu. Python ra đời vào năm 1991, ngôn ngữ được thiết kế bởi [Guido Van Rossum](https://twitter.com/gvanrossum) và được phát triển bởi [Python Software Foundation](https://www.python.org/psf/). Python có thể là bước đệm mở đầu cho những ai yêu thích thế giới lập trình muốn tìm tòi và học hỏi.
 
 ![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
@@ -48,7 +48,12 @@ Trong Python, có nhiều cấu trúc dữ liệu và thuật toán hữu ích �
 - Hiểu các loại dữ liệu cốt lõi và chức năng của chúng
 - Khám phá các khía cạnh hướng đối tượng của ngôn ngữ lập trình Python
 
+Cho đến hiện tại, Python đã ra phiên bản 3.8. Bạn có thể đọc thêm ở trang web chính thức phát hành ngôn ngữ Python tại [đây](http://python.org/). 
+
 Bên cạnh đó, Ad sẽ giới thiệu đến các bạn một số [tổng hợp về ngôn ngữ lập trình Python](https://www.geeksforgeeks.org/python-programming-language/).
+
+![](https://miro.medium.com/max/2688/1*2rvLYlbqA6b6EJX8hKlLNQ.png)
+<br>Python luôn là ngôn ngữ lập trình được ưu tiên lựa chọn qua khảo sát của Kaggle trong năm 2018 và 2019.
 
 ## Tổng hợp thêm về ngôn ngữ lập trình Python
 
