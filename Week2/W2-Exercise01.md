@@ -72,7 +72,7 @@ Với chương trình Python trong máy, tìm thời gian còn lại để bạn
 | 0 0 1<br>23 45 59 | 85558  |
 
 
-**Câu 6**. Cho biểu thức: $y = 4(x^{2}+10x\sqrt{x}+3x^{3}+8)$. Viết chương trình tính y từ x đã cho!
+**Câu 6**. Cho biểu thức: $$ y = 4(x^{2}+10x\sqrt{x}+3x^{3}+8) $$. Viết chương trình tính y từ x đã cho!
 
 | Input | Output            |
 |-------|-------------------|
