@@ -10,6 +10,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [Giới thiệu về khoá học và ngôn ngữ lập trình Python](Week0/W0-Intro.md)
   - [X] [Giới thiệu về môi trường Python](Week0/W0-Python-Environment.md)
   - [X] [Hướng dẫn viết Python trên web](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
+  - [X] [Tạo chương trình Python cùng PyCharm](https://aivietnam.ai/courses/aisummer2019/lessons/huong-dan-su-dung-pycharm/)
   - [X] [Tìm hiểu về Jupyter Notebooks và xây dựng chương trình Python đầu tiên](Week0/W0-Jupyter-Notebook.md)
   - [X] [Tìm hiểu về Markdown và cách sử dụng Markdown viết các ghi chú ở Jupyter Notebooks](Week0/W0-Markdown-Guide.md)
   - [X] [Kỹ năng sử dụng Google Search](https://aivietnam.ai/courses/aisummer2019/lessons/ky-nang-su-dung-google-search/)
