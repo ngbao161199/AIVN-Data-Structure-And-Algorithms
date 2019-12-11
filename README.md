@@ -34,17 +34,19 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [Tìm hiểu về phạm vi biến đổi trong Python](Week2/W2-Variable-Scope.ipynb)
   - [X] [Luồng điều khiển và vòng lặp](Week2/W2-Flow-control-and-Iterations.ipynb)
   - [ ] Bài tập cơ bản về Luồng điều khiển và vòng lặp
-  - [X] [Danh sách trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/list-python/)
-  - [ ] Bài tập cơ bản về Danh sách
-  - [X] [Chuỗi trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/string-trong-python/)
+  - [X] [List trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/list-python/)
+  - [ ] Bài tập cơ bản về List
+  - [X] [String trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/string-trong-python/)
+  - [ ] Bài tập cơ bản về String
   - [X] [Tìm hiểu về Tuples](Week2/W2-Tuples.ipynb)
-  - [ ] Bài tập cơ bản về Chuỗi 
+  - [ ] Bài tập cơ bản về Tuples 
   - [X] [Tìm hiểu khái niệm về hàm](https://aivietnam.ai/courses/aisummer2019/lessons/xay-dung-ham-trong-python/)
   - [ ] Bài tập cơ bản về Hàm
   - [ ] Xây dựng game cơ bản trên Python qua kiến thức đã học từ Week 2
   - [ ] Tổng kết Week 2
   
-- [ ] Week 3: Làm quen với ngôn ngữ lập trình Python (Phần 2) 
+- [ ] Week 3: Làm quen với ngôn ngữ lập trình Python (Phần 2)
+  - [ ] [Dictionary trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/dictionary-python/)
   - [ ] Tìm hiểu khái niệm về lớp và ứng dụng cùng phương pháp lập trình hướng đối tượng
   - [ ] Đóng gói dữ liệu và thuộc tính
   - [ ] Bài tập cơ bản về lớp và lập trình hướng đối tượng
@@ -54,6 +56,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Các module dành cho Cấu trúc dữ liệu và Giải thuật
   - [X] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
   - [X] [Ôn tập Đại số tuyến tính cùng Python](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
+  - [X] [Số liệu thống kê cơ bản và ứng dụng trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/statistics-co-ban/)
   - [ ] Bài tập tổng hợp của Week 3
   - [ ] Tìm hiểu về khái niệm Clean Code
   - [ ] Tổng kết Week 3
