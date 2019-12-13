@@ -8,13 +8,14 @@ Thiết kế và xây dựng phần mềm là những nhiệm vụ phức tạp.
 
 Học ngôn ngữ lập trình luôn là điều kiện tiên quyết đối với những ai theo đuổi lĩnh vực Công nghệ Thông tin trên thế giới. Ngày nay có rất nhiều ngôn ngữ ngôn ngữ lập trình nên vì thế, chúng ta lại cần phải thích ứng linh hoạt với các ngôn ngữ lập trình  một cách tự nhiên và nhanh chóng.
 
-![](https://www.itonlinelearning.com/wp-content/uploads/2018/06/Which-programming-langauge-should-i-learn-first-ITonlinelearning.jpg)
 
 Việc thích ứng đơn thuần không có được bằng cách học nhiều ngôn ngữ khác nhau từ đầu. Xét về bản chất, các ngôn ngữ lập trình cũng giống như ngôn ngữ tự nhiên, luôn có những điểm tương đồng và chúng thừa hưởng các đặc điểm của nhau. Nếu không thể học tốt hàng chục ngôn ngữ lập trình, bạn vẫn hoàn toàn có thể hiểu được cơ chế lẫn nền tảng thiết kế và thực hiện giữa nhiều ngôn ngữ lập trình khác nhau [1].
 
 Chính vì thế, phần lớn các chương trình đào tạo Công nghệ thông tin ở Đại học đều chú trọng dạy sinh viên về nển tảng cơ bản cơ bản nhất đầu tiên qua một ngôn ngữ lập trình nhất định. 
 
 # 2. Giới thiệu một số phương pháp lập trình phổ biến
+
+![](https://www.itonlinelearning.com/wp-content/uploads/2018/06/Which-programming-langauge-should-i-learn-first-ITonlinelearning.jpg)
 
 Phương pháp lập trình thủ tục/mệnh lệnh: 
 - Với lập tình thủ tục thì chương trình chính sẽ được chia nhỏ thành các chương trình con và mỗi chương trình con sẽ thực hiện một công việc xác định ra nhiều chương trình con khác.  Để đơn giản hóa công việc của chúng, chương trình chính sẽ gọi đến chương trình con thông qua một giải thuật. Bên cạnh đó, chúng cũng có thể là một cấu trúc được xác định trong chương trình chính.
