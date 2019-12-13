@@ -1,8 +1,8 @@
 # 1. Giới thiệu
 
-Ngôn ngữ lập trình là phương tiện biểu đạt trong nghệ thuật lập trình máy tính. Một ngôn ngữ lập trình lý tưởng sẽ giúp các lập trình viên dễ dàng viết các chương trình ngắn gọn và rõ ràng. 
-
 ![](https://www.assignmentexpert.com/blog/wp-content/uploads/2019/10/hardest-programming-language.png)
+
+Ngôn ngữ lập trình là phương tiện biểu đạt trong nghệ thuật lập trình máy tính. Một ngôn ngữ lập trình lý tưởng sẽ giúp các lập trình viên dễ dàng viết các chương trình ngắn gọn và rõ ràng. 
 
 Thiết kế và xây dựng phần mềm là những nhiệm vụ phức tạp. Nhiều hệ thống phần mềm bao gồm các phần tương tác từ đơn giản đến phức tạp. Để quản lý sự phức tạp, các giao diện và giao tiếp giữa các thành phần cần phải được thiết kế cẩn thận. Một ngôn ngữ tốt cho lập trình quy mô lớn sẽ giúp các lập trình viên quản lý sự tương tác giữa các thành phần phần mềm một cách hiệu quả[2]. 
 
