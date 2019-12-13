@@ -6,7 +6,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
 
 - [X] Đang trong tiến trình xây dựng
 
-- [ ] Week 0: Giới thiệu khoá học
+- [X] Week 0: Giới thiệu khoá học
   - [X] [Giới thiệu về khoá học và ngôn ngữ lập trình Python](Week0/W0-Intro.md)
   - [X] [Giới thiệu về môi trường Python](Week0/W0-Python-Environment.md)
   - [X] [Hướng dẫn viết Python trên web](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
@@ -47,7 +47,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Tổng kết Week 2
   
 - [ ] Week 3: Làm quen với ngôn ngữ lập trình Python (Phần 2)
-  - [ ] [Dictionary trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/dictionary-python/)
+  - [X] [Dictionary trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/dictionary-python/)
   - [ ] Tìm hiểu khái niệm về lớp và ứng dụng cùng phương pháp lập trình hướng đối tượng
   - [ ] Đóng gói dữ liệu và thuộc tính
   - [ ] Bài tập cơ bản về lớp và lập trình hướng đối tượng
