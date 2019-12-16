@@ -36,5 +36,5 @@ Các ngôn ngữ lập trình logic:
 
 # Nguồn tham khảo
 
-[1] Prof. Dr. Maurizio Gabbrielli, Prof. Dr. Simone Martini; Programming Languages: Principles and Paradigms (Undergraduate Topics in Computer Science); Springer; 2010.
+[1] Prof. Dr. Maurizio Gabbrielli, Prof. Dr. Simone Martini; Programming Languages: Principles and Paradigms (Undergraduate Topics in Computer Science); Springer; 2010.<br>
 [2] John C. Mitchell; Concepts in Programming Languages; Cambridge University Press; 2002.
