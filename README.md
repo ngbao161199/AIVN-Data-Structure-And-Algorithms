@@ -33,7 +33,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [Bài tập cơ bản về Biến trong Python](Week2/W2-Exercise01.md)
   - [X] [Tìm hiểu về phạm vi biến đổi trong Python](Week2/W2-Variable-Scope.ipynb)
   - [X] [Luồng điều khiển và vòng lặp](Week2/W2-Flow-control-and-Iterations.ipynb)
-  - [X] [Bài tập cơ bản về Luồng điều khiển và vòng lặp](Week2/W2-Exercise02.md)
+  - [X] [Bài tập cơ bản về Luồng điều khiển và vòng lặp](Week2/W2-Excercise02.md)
   - [X] [List trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/list-python/)
   - [ ] Bài tập cơ bản về List
   - [X] [String trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/string-trong-python/)
