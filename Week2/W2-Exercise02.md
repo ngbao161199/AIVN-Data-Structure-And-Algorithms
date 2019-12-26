@@ -1,12 +1,12 @@
 # Bài tập 2
 
 **Câu 1**. Cho 3 số nguyên A, B, C. Viết chương trình tìm số lớn nhất trong 3 số trên.
-<br>
-| Input       | Output |
+
+|    Input    | Output |
 |-------------|--------|
 | 3 5 7       | 7      |
 | 999 888 777 | 999    |
-<br>
+
 
 **Câu 2**. Cho 3 số nguyên N, A, B với A, B đều bé hơn N. Xuất các số từ 0 -> N ngoại trừ các số trong khoảng từ A -> B.
 <br>
