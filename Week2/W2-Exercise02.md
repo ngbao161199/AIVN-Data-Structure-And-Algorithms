@@ -34,6 +34,10 @@
 <br> <br>
 Từ một số nguyên N bất kỳ, hãy viết chương trình Python để kiểm tra xem chúng có phải số nguyên tố hay không. Nếu là số nguyên thì xuất ra màn hình là **TRUE** còn ngược lại là **FALSE**.
 
+| Input  | Output  |
+|--------|---------|
+| 73     | TRUE    |
+| 142    | FALSE   |
 
 **Câu 6**. Các môn trên Đại học thường được tổ chức theo hình thức tín chỉ học phần. Các môn thường được chia ra các cột điểm với quy ước trọng số % khác nhau. Để qua môn, bạn cần điểm tổng kết của môn học lớn hơn hoặc bằng 5,0.<br>
 Vì tuổi thanh xuân bận "cày game đua top" nên bạn giờ đây phải học hệ Liên kết của Trường Đại học X.<br> 
@@ -55,3 +59,7 @@ Bạn học Đại học với một ông thầy khó tính chuyên ra đề cu�
 |-----------------------------|--------|
 | 20 30 0 50<br>1 7.75 0      | 0      |
 | 15 15 10 60 <br>0 9.75 2.75 | 5.5    |
+
+**Câu 7**. Viết chương trình nhập n và tính ```S(n) = 1 + 2 + 3 + … + n```
+
+
