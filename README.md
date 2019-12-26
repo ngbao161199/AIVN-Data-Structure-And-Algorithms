@@ -42,7 +42,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Bài tập cơ bản về Tuples 
   - [X] [Tìm hiểu khái niệm về hàm](https://aivietnam.ai/courses/aisummer2019/lessons/xay-dung-ham-trong-python/)
   - [ ] Bài tập cơ bản về Hàm
-  - [ ] Xây dựng game cơ bản trên Python qua kiến thức đã học từ Week 2
+  - [ ] Xây dựng Game và một số chương trình cơ bản cùng Python
   - [ ] Tổng kết Week 2
   
 - [ ] Week 3: Làm quen với ngôn ngữ lập trình Python (Phần 2)
