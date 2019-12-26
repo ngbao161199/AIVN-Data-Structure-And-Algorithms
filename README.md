@@ -14,7 +14,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [Tìm hiểu về Jupyter Notebooks và xây dựng chương trình Python đầu tiên](Week0/W0-Jupyter-Notebook.md)
   - [X] [Tìm hiểu về Markdown và cách sử dụng Markdown viết các ghi chú ở Jupyter Notebooks](Week0/W0-Markdown-Guide.md)
   - [X] [Kỹ năng sử dụng Google Search](https://aivietnam.ai/courses/aisummer2019/lessons/ky-nang-su-dung-google-search/)
-  - [ ] Tham khảo định hướng phù hợp dành cho bạn sau khi tham gia khoá học này
+  - [X] [Tham khảo định hướng phù hợp dành cho bạn sau khi tham gia khoá học này](Week0/W0-Career.md)
   - [X] [Đọc thêm](Week0/W0-Data-Structure-And-Algorithm-Intro.md)
  
 - [ ] Week 1: Tìm hiểu về nguồn gốc và các khái niệm trong lập trình
