@@ -1,20 +1,31 @@
 # Bài tập 2
 
-**Câu 1**. Vẽ Kim tự tháp kích thước n.
+**Câu 1**. Cho 3 số nguyên A, B, C. Viết chương trình tìm số lớn nhất trong 3 số trên.
+<br>
+| Input                       | Output |
+|-----------------------------|--------|
+|                   3 5 7     | 7      |
+| 999 888 777                 | 999    |
 <br>
 
-**Bài 2**. Cho 3 số nguyên N, A, B với A, B đều bé hơn N. Xuất các số từ 0 -> N ngoại trừ các số trong khoảng từ A -> B.
+**Câu 2**. Cho 3 số nguyên N, A, B với A, B đều bé hơn N. Xuất các số từ 0 -> N ngoại trừ các số trong khoảng từ A -> B.
 <br>
+
 **Câu 3**. Cho 3 số nguyên N, A, B với A, B đều bé hơn N. Xuất các số từ 0 -> N ngoại trừ các số chia hết cho 3 và 5.
 <br>
+
+
+
 **Câu 4**. Nhập một số nguyên N. Viết chương trình Python hiển thị kết quả sau khi chuyển số nguyên N sang số nhị phân.
 <br>
+
 **Câu 5**. Theo định nghĩa của Wikipedia thì số nguyên tố là số tự nhiên lớn hơn 1, chỉ có 2 ước là 1 và chính nó. Theo định nghĩa này thì các số 2, 3, 5, 7, 11, ... là các số nguyên tố, trong đó số 2 là số nguyên tố chẵn duy nhất. Cũng như tính chất của số nguyên dương, chúng ta chỉ tìm thấy số nguyên tố nhỏ nhất chứ không thể tìm thấy số nguyên tố lớn nhất.
 <br><br>
 **Ví dụ**: 7 là số nguyên tố vì trong khoảng từ 2 - 6 không tồn tại số nào mà 7 chia hết cả.
 <br> <br>
 Từ một số nguyên N bất kỳ, hãy viết chương trình Python để kiểm tra xem chúng có phải số nguyên tố hay không.<br>
 <br>
+
 **Câu 6**. Các môn trên Đại học thường được tổ chức theo hình thức tín chỉ học phần. Các môn thường được chia ra các cột điểm với quy ước trọng số % khác nhau. Để qua môn, bạn cần điểm tổng kết của môn học lớn hơn hoặc bằng 5,0.<br>
 Vì tuổi thanh xuân bận "cày game đua top" nên bạn giờ đây phải học hệ Liên kết của Trường Đại học X.<br> 
 Vì điều kiện gia đình chỉ đủ trang trải việc học nên bạn đặt mục tiêu không rớt môn. Mà trong cuộc sống, đôi khi mọi thứ không như ta mường tượng. <br>
