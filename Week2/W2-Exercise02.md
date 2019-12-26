@@ -62,4 +62,7 @@ Bạn học Đại học với một ông thầy khó tính chuyên ra đề cu�
 
 **Câu 7**. Viết chương trình nhập n và tính ```S(n) = 1 + 2 + 3 + … + n```
 
-
+| Input | Output  |
+|-------|---------|
+| 200   | 20100   |
+| 999   | 499500  |
