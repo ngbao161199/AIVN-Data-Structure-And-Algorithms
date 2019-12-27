@@ -10,8 +10,11 @@ Trang bị kiến thức **Cấu trúc dữ liệu và Giải thuật** cũng l�
 
 Kết quả tìm kiếm cho thấy có hơn 27,000 doanh nghiệp trên toàn cầu hiện nay đều yêu cầu kiến thức **Cấu trúc dữ liệu và Giải thuật** từ vị trí Intern đến cả Senior.
 
-# 2. Hãy không ngừng học học, nghiên cứu và cải tiến
+# 2. Hãy không ngừng học tập, nghiên cứu và phát triển kiến thức
 
 ![](https://i.imgur.com/29Z5E3B.jpg)
 
+Hãy hình dung việc xây dựng một ngôi nhà, bên cạnh những khối gạch thô sơ thì ta cũng cần cung cấp cement để khiến chúng thêm vững chắc. Tương tự như thế, lập trình cũng cần kiến thức Cấu trúc dữ liệu và Giải thuật.
 
+
+Những kiến thức ở khoá học này vẫn nằm ở phạm trù cơ bản và là nền tảng giúp bạn ứng dụng phát triển sự nghiệp trong tương lai. 
