@@ -23,7 +23,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [X] [Tổng quan về các phương pháp lập trình](Week1/W1-Programming-Paradigms.md) 
   - [ ] Sự cần thiết về tư duy trong lập trình
   - [ ] Tham khảo các ứng dụng của Python trên thực tế (Đọc thêm)
-  - [ ] Học lập trình: Bạn chọn gì giữa việc đi hàm hoặc theo đuổi con đường nghiên cứu (Đọc thêm)
+  - [ ] Học lập trình: Bạn chọn gì giữa việc đi làm hoặc theo đuổi con đường nghiên cứu (Đọc thêm)
   - [ ] Tổng kết Week 1 và các lưu ý cho Week 2
   
 - [ ] Week 2: Làm quen với ngôn ngữ lập trình Python (Phần 1)
