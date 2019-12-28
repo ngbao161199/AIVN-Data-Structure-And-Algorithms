@@ -14,7 +14,10 @@ Kết quả tìm kiếm cho thấy có hơn 27,000 doanh nghiệp trên toàn c�
 
 ![](https://i.imgur.com/29Z5E3B.jpg)
 
-Hãy hình dung việc xây dựng một ngôi nhà, bên cạnh những khối gạch thô sơ thì ta cũng cần cung cấp cement để khiến chúng thêm vững chắc. Tương tự như thế, lập trình cũng cần kiến thức Cấu trúc dữ liệu và Giải thuật.
+Hãy hình dung việc xây dựng một ngôi nhà, bên cạnh những khối gạch thô sơ thì ta cũng cần cung cấp cement để khiến chúng thêm vững chắc. Tương tự như thế, lập trình cũng cần kiến thức **Cấu trúc dữ liệu và Giải thuật**.
 
+Mục tiêu của việc học **Cấu trúc dữ liệu và Giải thuật** sẽ giúp bạn phân tích và lập trình một cách hiệu quả hơn. Điều này sẽ giúp bạn phân tích được thời gian, độ phức tạp của không gian tính toán để đánh giá độ thực thi của một chương trình và sự hiệu quả qua cách sử dụng không gian máy tính.
 
-Những kiến thức ở khoá học này vẫn nằm ở phạm trù cơ bản và là nền tảng giúp bạn ứng dụng phát triển sự nghiệp trong tương lai. 
+Và hơn hết **Cấu trúc dữ liệu và Giải thuật** không phải là kiến thức giúp bạn xây dựng toàn bộ một ứng dụng, nhưng chúng sẽ giúp bạn xử lý và tổ chức khối lượng lớn dữ liệu một cách hiệu quả.
+
+Những kiến thức ở khoá học này vẫn nằm ở phạm trù cơ bản và vẫn sẽ là nền tảng giúp bạn ứng dụng phát triển sự nghiệp trong tương lai. 
