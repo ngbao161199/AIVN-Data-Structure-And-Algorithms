@@ -58,7 +58,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Giới thiệu các built-in function ứng dụng cho Cấu trúc dữ liệu và Giải thuật
   - [X] [Giới thiệu về numpy](https://aivietnam.ai/courses/aisummer2019/lessons/gioi-thieu-ve-numpy/)
   - [X] [Đọc thêm về matplotlib](https://aivietnam.ai/courses/aisummer2019/lessons/doc-them-ve-matplotlib/)
-  - [ ] [Bài tập ứng dụng numpy và matplotlib]()
+  - [X] [Bài tập ứng dụng numpy và matplotlib](Week3/W3-Numpy-Matplotlib-Exercise.md)
   - [X] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
   - [X] [Bài tập cơ bản về File trong Python](Week3/W3-File-Exercise.md)
   - [X] [Ôn tập Đại số tuyến tính cùng Python](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
