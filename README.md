@@ -42,7 +42,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Bài tập cơ bản về Tuples 
   - [X] [Tìm hiểu khái niệm về hàm](https://aivietnam.ai/courses/aisummer2019/lessons/xay-dung-ham-trong-python/)
   - [ ] Bài tập cơ bản về Hàm
-  - [ ] [Xây dựng Game cơ bản cùng Python](Week2/W2-Game.md)
+  - [X] [Xây dựng Game cơ bản cùng Python](Week2/W2-Game.md)
   - [ ] Tổng kết Week 2
   
 - [ ] Week 3: Làm quen với ngôn ngữ lập trình Python (Phần 2)
@@ -55,9 +55,12 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Tìm hiểu về Kiểu dữ liệu tích hợp
   - [ ] Tìm hiểu về Sets
   - [ ] Bài tập cơ bản về Sets
-  - [ ] Cài đặt các built-in function ứng dụng cho Cấu trúc dữ liệu và Giải thuật
+  - [ ] Giới thiệu các built-in function ứng dụng cho Cấu trúc dữ liệu và Giải thuật
+  - [X] [Giới thiệu về numpy](https://aivietnam.ai/courses/aisummer2019/lessons/gioi-thieu-ve-numpy/)
+  - [X] [Đọc thêm về matplotlib](https://aivietnam.ai/courses/aisummer2019/lessons/doc-them-ve-matplotlib/)
+  - [ ] [Bài tập ứng dụng numpy và matplotlib]()
   - [X] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
-  - [ ] [Bài tập cơ bản về File trong Python](Week3/W3-File-Exercise.md)
+  - [X] [Bài tập cơ bản về File trong Python](Week3/W3-File-Exercise.md)
   - [X] [Ôn tập Đại số tuyến tính cùng Python](https://aivietnam.ai/courses/aisummer2019/lessons/dai-so-tuyen-tinh-co-ban/)
   - [X] [Số liệu thống kê cơ bản và ứng dụng trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/statistics-co-ban/)
   - [X] [File trong Python](https://aivietnam.ai/courses/aisummer2019/lessons/file-trong-python/)
