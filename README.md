@@ -66,6 +66,7 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
   - [ ] Bài tập cơ bản về Đại số tuyến tính và Xác suất thống kê
   - [ ] Bài tập tổng hợp của Week 3
   - [ ] Đọc thêm: Tìm hiểu về khái niệm Clean Code
+  - [X] [Đọc thêm: Xử lý data cùng numpy](https://aivietnam.ai/courses/aisummer2019/lessons/xu-ly-data-numpy/)
   - [ ] Tổng kết Week 3
 
 - [ ] Week 4: Phân tích thuật toán
