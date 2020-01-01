@@ -19,11 +19,13 @@ Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi
  
 - [ ] Week 1: Tìm hiểu về nguồn gốc và các khái niệm trong lập trình
   - [ ] Lược sử ngành Khoa học máy tính
-  - [ ] Tại sao cần học lập trình?
-  - [X] [Tổng quan về các phương pháp lập trình](Week1/W1-Programming-Paradigms.md) 
+  - [ ] Lập trình là gì?
   - [ ] Sự cần thiết về tư duy trong lập trình
-  - [ ] Tham khảo các ứng dụng của Python trên thực tế (Đọc thêm)
+  - [ ] Tìm hiểu về khái niệm Lưu đồ thuật toán và Mã giả
+  - [X] [Tổng quan về các phương pháp lập trình](Week1/W1-Programming-Paradigms.md) 
+  - [X] [Tham khảo các ứng dụng của Python trên thực tế (Đọc thêm)](Week1/W1-Python-Real-World-Applications.md)
   - [ ] Học lập trình: Bạn chọn gì giữa việc đi làm hoặc theo đuổi con đường nghiên cứu (Đọc thêm)
+  - [ ] Week 1 Assignment: Tại sao cần học lập trình?
   - [ ] Tổng kết Week 1 và các lưu ý cho Week 2
   
 - [ ] Week 2: Làm quen với ngôn ngữ lập trình Python (Phần 1)
