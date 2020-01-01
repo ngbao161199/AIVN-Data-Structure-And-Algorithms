@@ -11,7 +11,7 @@
 ![](https://www.w3resource.com/w3r_images/matplotlib-basic-exercise-8.png)
 
 **Câu 3**: Mỗi công ty luôn cần báo cáo tổng kết về lợi nhuận của từng tháng sau một năm. Hãy xây dựng một biểu đồ đường với các thuộc tính sau:
-- X - Các tháng trong năm: [1, 12]
+- X - Các tháng trong năm: Từ 1 -> 12
 - Y - Lợi nhuận công ty: Random từ 100000 - 500000
 
 <br>Kết quả của bài tập sẽ là một biểu đồ đường gần giống như thế này.
@@ -26,7 +26,13 @@
 
 ![](https://www.w3resource.com/w3r_images/matplotlib-barchart-exercise-1.png)
 
-**Câu 5**: Tạo bar plot thể hiện theo nhóm và giới tính với dữ liệu sau.
+**Câu 5**: Tạo Pie chart từ dữ liệu **Câu 4**.
+
+<br>Kết quả của bài tập sẽ là pie chart tương tự như thế này.
+
+![](https://www.w3resource.com/w3r_images/matplotlib-piechart-exercise-1.png)
+
+**Câu 6**: Tạo bar plot thể hiện theo nhóm và giới tính với dữ liệu sau.
 - Score (men) = (22, 30, 35, 35, 26)
 - Score (women) = (25, 32, 30, 35, 29)
 
@@ -34,17 +40,19 @@
 
 ![](https://www.w3resource.com/w3r_images/matplotlib-barchart-exercise-10.png)
 
-# Bài tập kết hợp giữa numpy và matplotlib
-
-**Câu 1**: Vẽ đồ thị đường thẳng theo yêu cầu sau:
-- X: Là một mảng numpy có giá trị liên tục từ [1,10]
+**Câu 7**: Vẽ đồ thị đường thẳng theo yêu cầu sau:
+- X: Là một mảng numpy có giá trị liên tục từ 1 - > 10
 - Y: Là công thức ```y = 4*x + 3```
 
-**Câu 2**: Vẽ đồ thị hàm sphere
+# Bài tập thêm
 
-**Câu 3**: Vẽ đồ thị hàm Consine
+**Câu 1**: Vẽ đồ thị hàm sphere.
 
-**Câu 4**: Vẽ đồ thị hàm Sigmoid
+**Câu 2**: Vẽ đồ thị hàm Consine.
 
-**Câu 5**: Vẽ đồ thị hàm Tanh
+**Câu 3**: Vẽ đồ thị hàm Sigmoid.
+
+**Câu 4**: Vẽ đồ thị hàm Tanh.
+
+**Câu 5**: Tìm kiếm một dữ liệu bất kỳ, có thể ứng dụng thêm thư viện pandas để hỗ trợ load và biểu diễn chúng theo line chart, bar chart và pie chart.
 
