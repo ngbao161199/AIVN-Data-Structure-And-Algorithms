@@ -1,3 +1,5 @@
+# [Ôn tập numpy qua các ví dụ](https://aivietnam.ai/courses/aisummer2019/lessons/hoc-numpy-qua-vi-du/)
+
 # [Bài tập cơ bản về numpy](https://aivietnam.ai/courses/aisummer2019/lessons/numpy-exercises/)
 
 # Bài tập cơ bản về matplotlib
