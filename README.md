@@ -1,6 +1,6 @@
-# AI Viet Nam Course: Data Structure and Algorithms.
+# Free Course: Data Structure and Algorithms.
 
-Khoá học được xây dựng và kế thừa từ khoá học **AI cho mọi người** được phát triển bởi AI Viet Nam. Bạn có thể tham khảo khoá học tại [đây](https://aivietnam.ai/courses/aisummer2019/).
+Khoá học được xây dựng và phát triển bởi @ngbao161199 và @anminhhung
 
 ## Nội dung khoá học
 
